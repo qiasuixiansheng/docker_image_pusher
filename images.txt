@@ -1,2 +1,3 @@
 nacos/nacos-server
 container-registry.oracle.com/database/express:21.3.0-xe
+6053537/portainer-ce
