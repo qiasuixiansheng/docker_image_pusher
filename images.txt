@@ -2,4 +2,4 @@ nacos/nacos-server
 6053537/portainer-ce
 dpanel/dpanel
 registry
-joxit/docker-registry-ui:static
+joxit/docker-registry-ui:main
