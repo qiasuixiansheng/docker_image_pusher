@@ -3,3 +3,4 @@ nacos/nacos-server
 dpanel/dpanel
 registry
 joxit/docker-registry-ui:main
+quiq/registry-ui:latest
