@@ -4,4 +4,4 @@ dpanel/dpanel
 registry
 joxit/docker-registry-ui:main
 quiq/registry-ui:latest
-mysql:8.0.40
+mysql:8.0.40-debian
