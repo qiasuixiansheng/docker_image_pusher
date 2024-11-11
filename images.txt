@@ -1,3 +1,4 @@
+sonatype/nexus3
 nacos/nacos-server
 6053537/portainer-ce
 dpanel/dpanel
