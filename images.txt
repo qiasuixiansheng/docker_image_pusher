@@ -1,4 +1,4 @@
 nginx:latest
 uozi/nginx-ui:latest
 registry:latest
-registry-ui/main:latest
+docker-registry-ui:main
