@@ -2,3 +2,4 @@ nginx:latest
 uozi/nginx-ui:latest
 registry:latest
 docker-registry-ui:main
+dpanel/dpanel:latest
